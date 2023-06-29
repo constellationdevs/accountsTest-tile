@@ -1,0 +1,14 @@
+[
+    {
+        "code": "100514",
+        "string": "Account Data"
+    },
+    {
+        "code": "100515",
+        "string": "Deposit Accounts"
+    },
+    {
+        "code": "100516",
+        "string": "Loan Accounts"
+    }
+]
